@@ -27,6 +27,7 @@
 
 ---
 
+<!--
 ## Getting Started
 
 The code, pretrained models, and training and evaluation instructions will be available soon.
@@ -47,3 +48,4 @@ If you find this work useful, please cite:
   year      = {2026}
 }
 ```
+-->
