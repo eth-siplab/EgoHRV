@@ -14,7 +14,7 @@
 **EgoHRV** estimates continuous heart rate (HR) and heart rate variability (HRV) directly from the eye-tracking cameras of egocentric headsets. This allows egocentric systems to capture physiological responses related to stress, workload, and engagement without requiring an additional wearable sensor.
 
 <p align="center">
-<img src="figs/teaser.jpg" width="1000">
+  <img src="figs/overview.png" width="1000" alt="EgoHRV overview">
 </p>
 
 ## Key Features
